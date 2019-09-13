@@ -1,4 +1,4 @@
-# menus-module
+# NetC Menus (Kentico Module)
 
 The Module aims to provide a central location for Editors to create and modify Lists of Hyperlinks that will appear on their website.
 As each Hyperlink will be it's own object, it can have it own settings. This means that a single **Menu** can have:
