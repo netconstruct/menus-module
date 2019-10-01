@@ -17,7 +17,7 @@ The **Menus** Module will be under the Content Management section of the Module'
 Clicking this will open the main menu of the module, this will show a list of all the **Menus** that have been created. 
 
 From here you can create new **Menus** by clicking on New Menu, or edit an eisting **Menu** by clicking the green pencil.
-**Menus** have 2 tabs,the first with the properties that the object is made off, a Display Name and a Code Name; and the second show a grid of the **Menu Items** in this menu.
+**Menus** have 2 tabs, the first with the properties that the object is made off, a Display Name and a Code Name; and the second show a grid of the **Menu Items** in this menu.
 
 **Menu Items** are the items that provide the links for the **Menu** item. These are made up of:
 
@@ -42,7 +42,7 @@ It needs to be configured in the following manner:
 | Field | Value |
 | --- | --- |
 | Object type* | netc.menu |
-| Return column name* | MenuID |
+| Return column name | MenuID |
 
 After that, you can use any configuration you need for the Selector, e.g. Allowing None, changing the Selection mode.
 This will provide Editors a selector to choose which **Menu** should be used.
